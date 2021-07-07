@@ -1,1 +1,2 @@
 this is the second test for the git 
+it is the test to try the two flie in the git how to work
